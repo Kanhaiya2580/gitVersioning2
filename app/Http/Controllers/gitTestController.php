@@ -10,5 +10,6 @@ class gitTestController extends Controller
     public function test()
     {
         $new = 'Git Test';
+        $new = 'Git Test2';
     }
 }
