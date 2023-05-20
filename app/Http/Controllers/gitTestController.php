@@ -11,5 +11,6 @@ class gitTestController extends Controller
     {
         $new = 'Git Test';
         $new = 'Git Test2';
+        $new = 'Git Test2';
     }
 }
